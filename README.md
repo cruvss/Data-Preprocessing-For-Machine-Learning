@@ -6,3 +6,4 @@ Directory Left to add:
 - Text Data Preprocessing
 - Time Series Preprocessing
 - Image Data Preprocessing
+Feel Free to Contribute
